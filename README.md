@@ -10,6 +10,8 @@
 - JavaScript
 - Webpack
 
+## Live Version 
+Play the live version <a href="https://mouhadiouf.github.io/tic-tac-toe-JS/" > here </a>
 
 ## How To Play The Game 
 The game is developed with Webpack. You need to launch it with a live server.
