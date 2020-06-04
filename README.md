@@ -11,14 +11,14 @@
 - Webpack
 
 ## Live Version 
-Play the live version <a href="https://mouhadiouf.github.io/tic-tac-toe-JS/" > here </a>
+Play the live version <a href="https://mouhadiouf.github.io/tic-tac-toe-JS/" target="_blank" > here </a>
 
 ## How To Play The Game 
 The game is developed with Webpack. You need to launch it with a live server.
 
 ## Functionalities
 
-Can be found on: ( <a href="https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript"> The Odin Library Project </a>)
+Can be found on: ( <a href="https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript" target="_blank"> The Odin Library Project </a>)
 
 
 The user can:
