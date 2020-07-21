@@ -27,6 +27,11 @@ The user can:
 - Choose a side (X or O)
 - Restart the game anytime
 
+ ## Possible Future Improvements 
+ - Create an AI to play against the computer  
+ - Keep track of the user's scoring (wins and losses)
+
+
 ## Developed by
 
 Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>)
