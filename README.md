@@ -32,6 +32,13 @@ The user can:
 Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>)
 Michael Damulak (<a href="https://github.com/em-em-D"> @emmd </a>)
 
+Let's connect on: 
+
+-  <a href="https://www.linkedin.com/in/mouha-diouf/" target="_blank" > LinkedIn </a>
+- <a href="https://twitter.com/mouhamadiouf" target="_blank"> Twitter</a>
+
+You can also check <a href="https://mouhadiouf.com/" target="_blank"> my portfolio </a>
+
 ## Contributing
 
 1. Fork it (https://github.com/MouhaDiouf/tic-tac-toe-JS)
